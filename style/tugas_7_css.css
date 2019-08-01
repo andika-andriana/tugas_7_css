@@ -1,0 +1,25 @@
+body{
+  background-image:url("../img/borobudur.jpg");
+  background-size: cover;
+}
+div{
+  width:800px;
+  height:500px;
+  border:2px solid red;
+  margin: 0 auto;
+  background-image:url("../img/avocado.jpg");
+  background-size:287px 190px;
+}
+p.justify{
+  color:blue;
+  font-size:18px;
+}
+div.repeat{
+  width:800px;
+  height:500px;
+  border:2px solid red;
+  margin: 0 auto;
+  background-image:url("../img/avocado.jpg");
+  background-size:287px 190px;
+  background-repeat: repeat-x;
+}
